@@ -1,6 +1,6 @@
-# Git-and-Github### Introduction to GitHub:
+#  Introduction to GitHub:
 
-**What is GitHub?**
+*What is GitHub?*
 GitHub is a web-based platform used for version control and collaboration. It allows developers to host, review, and manage code, track changes, and work together on projects.
 
 **Primary functions and features:**
